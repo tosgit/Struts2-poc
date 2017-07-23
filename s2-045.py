@@ -61,7 +61,7 @@ class START:
 if __name__ == '__main__':
 
     ROOT = Tk()
-    ROOT.title("Struct2-045检测工具  By:Tos")
+    ROOT.title("Struts2-045检测工具  By:Tos")
     motion = START(ROOT)
     mainloop()
 
